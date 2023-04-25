@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="MagazineExtractor.WPF.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <MagazineExtractor.WPF.Properties.Settings>
+            <setting name="FacebookSearchKey" serializeAs="String">
+                <value>datr</value>
+            </setting>
+            <setting name="PaypalSearchKey" serializeAs="String">
+                <value>login_email AND nsid AND akavpau_ppsd</value>
+            </setting>
+            <setting name="Theme" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="Manifest" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="TwoCaptchaApiKey" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="SettingsUpgradeRequired" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="GoogleSheetsCred" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="GoogleSpreadSheetId" serializeAs="String">
+                <value />
+            </setting>
+        </MagazineExtractor.WPF.Properties.Settings>
+    </userSettings>
+</configuration>
